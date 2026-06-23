@@ -1,0 +1,6 @@
+{
+  "name": "English Mouth Shapes & Phonetics",
+  "description": "App hướng dẫn chi tiết khẩu hình miệng, phiên âm IPA, từ đồng nghĩa và cách phát âm các từ tiếng Anh phổ biến thông qua sơ đồ minh họa trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
